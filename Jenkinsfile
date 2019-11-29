@@ -14,8 +14,7 @@ pipeline{
          }
     stage ("Deploy") {
           steps {
-          sh 'eb deploy --staged'
-                   
+          sh 'eb deploy --staged'                   
          }
     }
 
