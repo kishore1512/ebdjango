@@ -4,7 +4,7 @@ pipeline{
    stages {
     stage ("Init") {
           steps {
-          sh 'eb init django-demo'
+          sh 'eb init -p python-3.6 django-demo --region us-east-1 -k Test-teejadding r'
           }          
          }
     stage ("Use env") {
