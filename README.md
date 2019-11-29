@@ -1,2 +1,2 @@
 # ebdjango
-django sample app
+sample django app
