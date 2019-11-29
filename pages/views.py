@@ -3,5 +3,5 @@ from django.http import HttpResponse
 
 
 def homePageView(request):
-    return HttpResponse('Hello, World!')
+    return HttpResponse('<center><h2>Hello All,</h2><br><h2> Welcome to Ibexlabs DevOps team. Cheers!!!</h2></center>')
 # Create your views here.
