@@ -25,7 +25,7 @@ SECRET_KEY = 'f^o8egr&=9u4)&)j1j%po&rrvx_sx&1&*z4u&-4-e7t0q2r9pg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['10.6.2.150','django-demo-env.mgamykb4fr.us-east-1.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['python-sonar-sample.am7vt7363a.us-east-1.elasticbeanstalk.com']
 
 
 # Application definition
